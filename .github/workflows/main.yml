@@ -2,10 +2,10 @@ name: Verificar script Python
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "desarrollo" ]
 
 jobs:
-  test:
+  main:
     runs-on: ubuntu-latest
 
     steps:
