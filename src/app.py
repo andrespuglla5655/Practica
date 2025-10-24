@@ -1,1 +1,1 @@
-print("Hola desde GitHub Actions 👋")
+print("Hola desde GitHub Actions")
